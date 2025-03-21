@@ -1,4 +1,7 @@
-### study-of-basic-gates
+### EXP1  : Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
+
+### NAME : DHANUSH P
+### REG-NO : 2122223230042
 
 **AIM:** 
 
@@ -64,16 +67,22 @@ Y= A⊕B
 
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+ ![Screenshot 2025-03-19 112107](https://github.com/user-attachments/assets/c50701e3-c811-499b-9ffc-2ec1035cf468)
 
- Developed by: RegisterNumber: 
- 
 **Logic symbol & Truthtable**
+
+![WhatsApp Image 2024-10-29 at 10 24 49_9b9174d9](https://github.com/user-attachments/assets/f50db3be-85c5-4310-b107-277820cb027b)
+
 
 **RTL realization Output:** 
 
+![Screenshot 2025-03-19 113131](https://github.com/user-attachments/assets/44db2bbf-0b5f-4fa5-bd6a-631af3299942)
+
 **RTL**
 
-**Result:**
+![Screenshot 2025-03-19 114248](https://github.com/user-attachments/assets/c3f51e5d-99e5-4674-94f7-a100382cd088)
 
+
+**Result:**
+ The truth table of logic gates in Quartus II using Verilog programming is verified.
 
